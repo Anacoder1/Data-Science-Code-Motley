@@ -7,6 +7,7 @@ Collection of codes of random topics in Data Science, in Python
 4. [Simple Autoencoder_MNIST.ipynb][7] - to be used with [Denoising Autoencoder: Part I, Dawid Kopczyk][8]
 5. [Denoising Autoencoder_MNIST.ipynb][9] - to be used with [Denoising Autoencoder: Part II, Dawid Kopczyk][10]
 6. [DAE_RepLearning.ipynb][11] - to be used with [Denoising Autoencoder: Part III, Dawid Kopczyk][12]
+7. [Continuous Numeric Data_DJ Sarkar.ipynb][13] - to be used with [Continuous Numeric Data, Dipanjan Sarkar][14]
 
 [1]: https://github.com/Anacoder1/Data-Science-Code-Motley/blob/master/Autoencoders.ipynb
 [2]: https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
@@ -20,3 +21,5 @@ Collection of codes of random topics in Data Science, in Python
 [10]: https://github.com/Anacoder1/Data-Science-Code-Motley/blob/master/Denoising%20Autoencoder_MNIST.ipynb
 [11]: https://github.com/Anacoder1/Data-Science-Code-Motley/blob/master/DAE_RepLearning.ipynb
 [12]: dkopczyk.quantee.co.uk/dae-part3/
+[13]: https://github.com/Anacoder1/Data-Science-Code-Motley/blob/master/Understanding%20Feature%20Engineering%20-%20DJ%20Sarkar/Continuous%20Numeric%20Data_DJ%20Sarkar.ipynb
+[14]: https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b
